@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: blue;
+    background-color: white;
+}
+
+form {
+    width: 252px;
+    flex-wrap: wrap;
+    background-color: white;
+}
+body {
+    background-color: blue;
+}
+
+#postedChrp {
+    margin: 20px;
+    width: 252px;
+    background-color: lightslategrey;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
