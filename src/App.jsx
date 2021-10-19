@@ -50,7 +50,7 @@ const App = () => {
             {chirps.map(chirp => (
                 <div id="postedChrp">
                     <div>{chirp.username}</div>
-                    <div>{chirp.chirp}</div>
+                    <p>{chirp.chirp}</p>
                 </div>
             ))}
         </div>
